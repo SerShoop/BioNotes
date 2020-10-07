@@ -131,42 +131,42 @@
 - Limitations  
         - Success rate is low  
         - Animal clones may age faster and have shorter lifespans  
-  - Advantages  
+- Advantages  
         - Preserve desirable characters  
         - Overcome reproductive difficulties of plants/animals  
-  - Disadvantage  
+- Disadvantage  
         - Clone lacks genetic variation  
             - Decreases adaptability of population  
-## E. Polymerase chain reaction (PCR)
-- Allows rapid gene amplification *without living cells*
-- Principle:
-	    - DNA + reagents (nucleotides, heat-stable DNA, polymerase and primers)
-	    - Cycles of heating and cooling
-	    - Imitate natural DNA replication
-- Steps (can be performed in *thermal cycler*)
-	    - DNA denaturation (heated to ~95 °C)
-	        - Hydrogen bonds break
-        	- Double helix DNA sample unravel into two single-stranded DNA
-    	- Annealing of primers (cooled to 50-65 °C)
-            - Primers (x2) introduced as starting points for DNA synthesis
-            	- Specific
-            	- Bind to opposite strands
-            	- Complementary to DNA strand
-        - DNA synthesis (raised to ~70 °C, i.e. optimum temperature)
-            - Heat-stable DNA polymerase attach to strand
-                - Similar to ribosome
-            - Nucleotides introduced
-            - Nucleotides bind to original DNA strands
-            - New DNA strands are synthesized
-        - DNA number doubles each cycle
-- Applications
-        - Amplify DNA from foetal cells extracted from amniotic fluid
-            - Prenatal (pre-birth) diagnosis of genetic diseases
-        - Amplify DNA from samples found in crime scene for DNA fingerprinting
-        - Amplify DNA from remains of historical figures/extinct species for study
-        - Diagnose infectious diseases
-            - PCR is highly sensitive
-                - Trace amounts of bacterial/viral DNA in blood can be detected
+## E. Polymerase chain reaction (PCR)  
+- Allows rapid gene amplification *without living cells*  
+- Principle:  
+	    - DNA + reagents (nucleotides, heat-stable DNA, polymerase and primers)  
+	    - Cycles of heating and cooling  
+	    - Imitate natural DNA replication  
+- Steps (can be performed in *thermal cycler*)    
+	    - DNA denaturation (heated to ~95 °C)  
+	        - Hydrogen bonds break  
+        	- Double helix DNA sample unravel into two single-stranded DNA  
+    	- Annealing of primers (cooled to 50-65 °C)  
+            - Primers (x2) introduced as starting points for DNA synthesis  
+            	- Specific  
+            	- Bind to opposite strands  
+            	- Complementary to DNA strand   
+        - DNA synthesis (raised to ~70 °C, i.e. optimum temperature)  
+            - Heat-stable DNA polymerase attach to strand  
+                - Similar to ribosome  
+            - Nucleotides introduced  
+            - Nucleotides bind to original DNA strands  
+            - New DNA strands are synthesized  
+        - DNA number doubles each cycle  
+- Applications  
+        - Amplify DNA from foetal cells extracted from amniotic fluid  
+            - Prenatal (pre-birth) diagnosis of genetic diseases  
+        - Amplify DNA from samples found in crime scene for DNA fingerprinting  
+        - Amplify DNA from remains of historical figures/extinct species for study  
+        - Diagnose infectious diseases  
+            - PCR is highly sensitive  
+                - Trace amounts of bacterial/viral DNA in blood can be detected  
 ## F. DNA fingerprinting
 - Principle
 	    - ~99.9% of base sequence in DNA is same in all humans
