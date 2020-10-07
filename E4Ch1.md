@@ -52,12 +52,12 @@
 	        - Bacterial culture continuously produces insulin  
 	    - Low extraction cost  
 ## C. Genetically modified organisms (GMO)
-	- Organisms whose genetic make-up has been altered by genetic engineering
-	- Examples:
-	    - Glowing GM zebra fish
-	    - Pest-resistant GM maize plants
-	        - Bacterium has toxin gene that produces toxin which kills pests (e.g. caterpillar)
-		- Using recombinant DNA technology
+- Organisms whose genetic make-up has been altered by genetic engineering
+- Examples:
+	- Glowing GM zebra fish
+	- Pest-resistant GM maize plants
+	    - Bacterium has toxin gene that produces toxin which kills pests (e.g. caterpillar)
+	    - Using recombinant DNA technology
 		    1. Obtain toxin gene from toxin-producing bacterium and plasmid from *Agrobacterium*
 		    2. Cut with same restriction enzyme
 		    3. Ligation of DNA fragment and plasmid
@@ -65,18 +65,18 @@
 		    5. Infect maize cell
 		    6. Cell develops into adult plant
 
-		GM maize plant is therefore pest-resistant
+	GM maize plant is therefore pest-resistant
 
-	- Benefits/Hazards
-	    - Benefits
-	        - Large amounts of useful products can be produced in a shorter time at lower cost
-	            - e.g. Production of human insulin (refer to above)
-	        - Food supplies increased with GMOs of higher productivity
-        	    - e.g. fast-growing GM salmon increases supply of salmon
-        	- Higher nutritional value foods
-        	    - e.g. Golden Rice is rich in β-carotene, which can be converted to vitamin A in human body
-        	- Pollution caused by agriculture reduced
-        	    - Reduce use of chemical pesticides (in the case of GM maize plants)
+- Benefits/Hazards
+	- Benefits
+	    - Large amounts of useful products can be produced in a shorter time at lower cost
+	        - e.g. Production of human insulin (refer to above)
+	    - Food supplies increased with GMOs of higher productivity
+        	- e.g. fast-growing GM salmon increases supply of salmon
+            - Higher nutritional value foods
+        	- e.g. Golden Rice is rich in β-carotene, which can be converted to vitamin A in human body
+            - Pollution caused by agriculture reduced
+        	- Reduce use of chemical pesticides (in the case of GM maize plants)
 	- Hazards
 	    - Long-term effects of GMOs on human health still unknown
 	    - New genes/products in GM food may cause allergic reactions
@@ -89,7 +89,7 @@
         - GMOs may out-compete wild types if released into environment
             - Reduce biodiversity
             - Upset ecological balance
-D. Cloning
+## D. Cloning
 	- Definition: Genetically identical copy
 	- Examples:
 	    - Identical twins
