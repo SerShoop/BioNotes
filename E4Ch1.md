@@ -9,12 +9,12 @@ A. Introduction to biotechnology
 	- Examples  
 	    - Production of cheese/wine (early biotech)  
 	    - Selective breeding  
-B. Recombinant DNA technology
-	- Steps
-		1. Obtain DNA fragments containing gene of interest from target cell
-		   [Extract DNA encoding human insulin from human pancreatic cell]
+B. Recombinant DNA technology  
+	- Steps  
+		1. Obtain DNA fragments containing gene of interest from target cell  
+		   [Extract DNA encoding human insulin from human pancreatic cell]  
 
-		2. Obtain vectors (e.g. plasmids)
+		2. Obtain vectors (e.g. plasmids)  
 		   [Extract plasmid with antibiotic resistance gene from bacterium]
 
 		3. Cut DNA fragments and plasmids using restriction enzyme (Restriction)
