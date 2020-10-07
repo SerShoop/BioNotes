@@ -10,18 +10,18 @@
 	- Production of cheese/wine (early biotech)  
 	- Selective breeding  
 ## B. Recombinant DNA technology  
-	- Steps  
-		1. Obtain DNA fragments containing gene of interest from target cell  
-		   [Extract DNA encoding human insulin from human pancreatic cell]  
+- Steps  
+	1. Obtain DNA fragments containing gene of interest from target cell  
+	[Extract DNA encoding human insulin from human pancreatic cell]  
 
-		2. Obtain vectors (e.g. plasmids)  
-		   [Extract plasmid with antibiotic resistance gene from bacterium]
+	2. Obtain vectors (e.g. plasmids)  
+	[Extract plasmid with antibiotic resistance gene from bacterium]  
 
-		3. Cut DNA fragments and plasmids using restriction enzyme (Restriction)
-		   [Cut at specific locations that create sticky ends, i.e. outstanding bases, such that sticky ends from DNA fragment/plasmid are complementary to each other]
-		   {Cut at locations that are not the target gene/antibiotic resistance gene}
+	3. Cut DNA fragments and plasmids using restriction enzyme (Restriction)  
+	[Cut at specific locations that create sticky ends, i.e. outstanding bases, such that sticky ends from DNA fragment/plasmid are complementary to each other]  
+	{Cut at locations that are not the target gene/antibiotic resistance gene}
 
-		4. Join DNA fragment/plasmid together using DNA ligase (Ligation)
+	4. Join DNA fragment/plasmid together using DNA ligase (Ligation)
 		   [DNA ligase catalyses joining of DNA fragment/plasmid by **covalent bonds**]
 		   [New plasmid called recombinant plasmid]
 		   {Recombinant plasmid introduced into host cells for replication and expression}
