@@ -21,16 +21,16 @@
 	[Cut at specific locations that create sticky ends, i.e. outstanding bases, such that sticky ends from DNA fragment/plasmid are complementary to each other]  
 	{Cut at locations that are not the target gene/antibiotic resistance gene}
 
-	4. Join DNA fragment/plasmid together using DNA ligase (Ligation)
-		   [DNA ligase catalyses joining of DNA fragment/plasmid by **covalent bonds**]
-		   [New plasmid called recombinant plasmid]
-		   {Recombinant plasmid introduced into host cells for replication and expression}
+	4. Join DNA fragment/plasmid together using DNA ligase (Ligation)  
+		   [DNA ligase catalyses joining of DNA fragment/plasmid by **covalent bonds**]  
+		   [New plasmid called recombinant plasmid]  
+		   {Recombinant plasmid introduced into host cells for replication and expression}  
 
-	- Example: Production of human insulin using recombinant plasmids
-	    - *E. coli* commonly used as host cell.
-	- Mix  *E. coli* with recombinant plasmids
-	    - Some  *E. coli* receive recombinant plasmid (transformed bacterium)
-	    - Transformed bacteria have antibiotic resistance gene (selective marker)
+	- Example: Production of human insulin using recombinant plasmids  
+	    - *E. coli* commonly used as host cell.  
+	- Mix  *E. coli* with recombinant plasmids  
+	    - Some  *E. coli* receive recombinant plasmid (transformed bacterium)  
+	    - Transformed bacteria have antibiotic resistance gene (selective marker)  
 	- Place all bacteria on agar plate containing an antibiotic
 	    - Bacteria without recombinant plasmid have no antibiotic resistance gene, therefore die
 	    - Transformed bacterium survive and divide
