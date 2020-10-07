@@ -31,27 +31,27 @@
 	- Mix  *E. coli* with recombinant plasmids  
 	    - Some  *E. coli* receive recombinant plasmid (transformed bacterium)  
 	    - Transformed bacteria have antibiotic resistance gene (selective marker)  
-	- Place all bacteria on agar plate containing an antibiotic
-	    - Bacteria without recombinant plasmid have no antibiotic resistance gene, therefore die
-	    - Transformed bacterium survive and divide
-	- Colonies of transformed bacteria are formed
-	    - Cultured in fermenters
-	- Recombinant plasmid
-	    - Replicates in cell
-	    - Copied to daughter cells
-	        - Results in many copies of target, i.e. DNA encoding human insulin (gene cloning)
-        	- Expressed and polypeptides are produced
-        	    - Extracted and processed into functional human insulin
-	- Advantages of recombinant DNA technology (Human insulin production)
-	    - Insulin produced is structurally the same as that produced by human body
-	        - Not rejected by immune system
-	    - Insulin produced is pure
-	    - Higher product yield, due to…
-	        - Many copies of DNA encoding human insulin are present
-	        - Bacteria growth rate is high
-	        - Bacterial culture continuously produces insulin
-	    - Low extraction cost
-C. Genetically modified organisms (GMO)
+	- Place all bacteria on agar plate containing an antibiotic  
+	    - Bacteria without recombinant plasmid have no antibiotic resistance gene, therefore die  
+	    - Transformed bacterium survive and divide  
+	- Colonies of transformed bacteria are formed  
+	    - Cultured in fermenters  
+	- Recombinant plasmid  
+	    - Replicates in cell  
+	    - Copied to daughter cells  
+	        - Results in many copies of target, i.e. DNA encoding human insulin (gene cloning)  
+        	- Expressed and polypeptides are produced  
+        	    - Extracted and processed into functional human insulin  
+	- Advantages of recombinant DNA technology (Human insulin production)  
+	    - Insulin produced is structurally the same as that produced by human body  
+	        - Not rejected by immune system  
+	    - Insulin produced is pure  
+	    - Higher product yield, due to…  
+	        - Many copies of DNA encoding human insulin are present  
+	        - Bacteria growth rate is high  
+	        - Bacterial culture continuously produces insulin  
+	    - Low extraction cost  
+## C. Genetically modified organisms (GMO)
 	- Organisms whose genetic make-up has been altered by genetic engineering
 	- Examples:
 	    - Glowing GM zebra fish
