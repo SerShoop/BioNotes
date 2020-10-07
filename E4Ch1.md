@@ -1,6 +1,6 @@
 # E4Ch1
 
-##A. Introduction to biotechnology  
+## A. Introduction to biotechnology  
 	- Definition: Technological applications that involve the use of organisms/biological systems/processes to produces goods/provide services  
 	- Modern biotech:  
 	    - Knowledge of heredity and microorganisms  
@@ -9,7 +9,7 @@
 	- Examples  
 	    - Production of cheese/wine (early biotech)  
 	    - Selective breeding  
-##B. Recombinant DNA technology  
+## B. Recombinant DNA technology  
 	- Steps  
 		1. Obtain DNA fragments containing gene of interest from target cell  
 		   [Extract DNA encoding human insulin from human pancreatic cell]  
