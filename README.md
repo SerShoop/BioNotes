@@ -1,2 +1,2 @@
 # BioNotes
-Prepared by Eric.
+Prepared by an idiot.

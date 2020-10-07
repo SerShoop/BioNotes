@@ -9,6 +9,7 @@ A. Introduction to biotechnology
 	- Examples
 	    - Production of cheese/wine (early biotech)
 	    - Selective breeding
+
 B. Recombinant DNA technology
 	- Steps
 		1. Obtain DNA fragments containing gene of interest from target cell
@@ -51,6 +52,7 @@ B. Recombinant DNA technology
 	        - Bacteria growth rate is high
 	        - Bacterial culture continuously produces insulin
 	    - Low extraction cost
+
 C. Genetically modified organisms (GMO)
 	- Organisms whose genetic make-up has been altered by genetic engineering
 	- Examples:
@@ -89,6 +91,7 @@ C. Genetically modified organisms (GMO)
         - GMOs may out-compete wild types if released into environment
             - Reduce biodiversity
             - Upset ecological balance
+
 D. Cloning
 	- Definition: Genetically identical copy
 	- Examples:
@@ -137,6 +140,7 @@ D. Cloning
         - Disadvantage
             - Clone lacks genetic variation
                 - Decreases adaptability of population
+
 E. Polymerase chain reaction (PCR)
 	- Allows rapid gene amplification *without living cells*
 	- Principle:
@@ -167,6 +171,7 @@ E. Polymerase chain reaction (PCR)
         - Diagnose infectious diseases
             - PCR is highly sensitive
                 - Trace amounts of bacterial/viral DNA in blood can be detected
+
 F. DNA fingerprinting
 	- Principle
 	    - ~99.9% of base sequence in DNA is same in all humans
