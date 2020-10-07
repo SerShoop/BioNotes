@@ -90,18 +90,18 @@
             - Reduce biodiversity
             - Upset ecological balance
 ## D. Cloning
-	- Definition: Genetically identical copy
-	- Examples:
-	    - Identical twins
-	    - Plants (e.g. African violets) from cutting
-	- Methods:
-	    - By tissue culture
-	        - Remove sterile plant tissue from plant
-	        - Place into sterile culture medium (with all nutrients necessary for growth)
-        	- Undifferentiated cells (callus) form through mitotic cell division
-        	- Transfer to culture medium containing hormones (promote root/shoot growth)
-        	- Plantlets grown in soil for further development
-	    - Embryo splitting
+- Definition: Genetically identical copy
+- Examples:
+	- Identical twins
+	- Plants (e.g. African violets) from cutting
+- Methods:
+	- By tissue culture
+	    - Remove sterile plant tissue from plant
+	    - Place into sterile culture medium (with all nutrients necessary for growth)
+      	- Undifferentiated cells (callus) form through mitotic cell division
+            - Transfer to culture medium containing hormones (promote root/shoot growth)
+            - Plantlets grown in soil for further development
+	- Embryo splitting
         	- Split embryo at 8-cell stage into individual cells
         	    - Grow into embryos
         	- Transferred into surrogate mothers
@@ -112,38 +112,38 @@
     	    - Fuse cell and ovum
     	    - *in vitro* development in culture medium
     	    - Implant embryo into surrogate mother
-	- Applications (Plant)
-    	    - Produce large quantities of plants that are economically important
-        	- e.g. oil palm trees
-    	    - Produce disease-free plants for agricultural purposes
-    	    - Rescue diseased plant populations by culturing uninfected tissues of plant
-  	    - Produce plants that are endangered/hard to grow (e.g. orchids)
-    	    - Maintain special breed of plants with desirable characters
-    	    - Research purposes
-    	        - Control set-up
-    	- Applications (Animal)
-            - Propagate farm/endangered animals
-            - Mass-produce GM animals
-                - Valuable pharmaceutical products/other chemicals
-    	    - Produce genetically identical animals for drug tests/research
-            - Obtain stem cells for use in research medicine
-            	- Development of different type of cells (brain cells, muscle cells, etc.)
-        - Limitations
-            - Success rate is low
-            - Animal clones may age faster and have shorter lifespans
-        - Advantages
-            - Preserve desirable characters
-            - Overcome reproductive difficulties of plants/animals
-        - Disadvantage
-            - Clone lacks genetic variation
-                - Decreases adaptability of population
-E. Polymerase chain reaction (PCR)
-	- Allows rapid gene amplification *without living cells*
-	- Principle:
+- Applications (Plant)
+    	- Produce large quantities of plants that are economically important
+            - e.g. oil palm trees
+    	- Produce disease-free plants for agricultural purposes
+    	- Rescue diseased plant populations by culturing uninfected tissues of plant
+  	- Produce plants that are endangered/hard to grow (e.g. orchids)
+    	- Maintain special breed of plants with desirable characters
+    	- Research purposes
+    	    - Control set-up
+- Applications (Animal)
+        - Propagate farm/endangered animals
+        - Mass-produce GM animals
+            - Valuable pharmaceutical products/other chemicals
+    	- Produce genetically identical animals for drug tests/research
+        - Obtain stem cells for use in research medicine
+            - Development of different type of cells (brain cells, muscle cells, etc.)
+- Limitations
+        - Success rate is low
+        - Animal clones may age faster and have shorter lifespans
+  - Advantages
+        - Preserve desirable characters
+        - Overcome reproductive difficulties of plants/animals
+  - Disadvantage
+        - Clone lacks genetic variation
+            - Decreases adaptability of population
+## E. Polymerase chain reaction (PCR)
+- Allows rapid gene amplification *without living cells*
+- Principle:
 	    - DNA + reagents (nucleotides, heat-stable DNA, polymerase and primers)
 	    - Cycles of heating and cooling
 	    - Imitate natural DNA replication
-	- Steps (can be performed in *thermal cycler*)
+- Steps (can be performed in *thermal cycler*)
 	    - DNA denaturation (heated to ~95 °C)
 	        - Hydrogen bonds break
         	- Double helix DNA sample unravel into two single-stranded DNA
@@ -159,7 +159,7 @@ E. Polymerase chain reaction (PCR)
             - Nucleotides bind to original DNA strands
             - New DNA strands are synthesized
         - DNA number doubles each cycle
-    - Applications
+- Applications
         - Amplify DNA from foetal cells extracted from amniotic fluid
             - Prenatal (pre-birth) diagnosis of genetic diseases
         - Amplify DNA from samples found in crime scene for DNA fingerprinting
@@ -167,8 +167,8 @@ E. Polymerase chain reaction (PCR)
         - Diagnose infectious diseases
             - PCR is highly sensitive
                 - Trace amounts of bacterial/viral DNA in blood can be detected
-F. DNA fingerprinting
-	- Principle
+## F. DNA fingerprinting
+- Principle
 	    - ~99.9% of base sequence in DNA is same in all humans
 	        - Remaining 0.1% represents genetic variations between individuals
 	        - Some occur in variable number tandem repeats (VNTRs)
