@@ -1,5 +1,6 @@
 # E4Ch1
 
+
 ## A. Introduction to biotechnology  
 - Definition: Technological applications that involve the use of organisms/biological systems/processes to produces goods/provide services  
 - Modern biotech:  
@@ -14,6 +15,8 @@
 	1. Obtain DNA fragments containing gene of interest from target cell  
 	[Extract DNA encoding human insulin from human pancreatic cell]  
 
+
+
 	2. Obtain vectors (e.g. plasmids)  
 	[Extract plasmid with antibiotic resistance gene from bacterium]  
 
@@ -25,6 +28,7 @@
 		   [DNA ligase catalyses joining of DNA fragment/plasmid by **covalent bonds**]  
 		   [New plasmid called recombinant plasmid]  
 		   {Recombinant plasmid introduced into host cells for replication and expression}  
+
 
 	- Example: Production of human insulin using recombinant plasmids  
 	    - *E. coli* commonly used as host cell.  
