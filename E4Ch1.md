@@ -167,43 +167,43 @@
         - Diagnose infectious diseases  
             - PCR is highly sensitive  
                 - Trace amounts of bacterial/viral DNA in blood can be detected  
-## F. DNA fingerprinting
-- Principle
-	    - ~99.9% of base sequence in DNA is same in all humans
-	        - Remaining 0.1% represents genetic variations between individuals
-	        - Some occur in variable number tandem repeats (VNTRs)
+## F. DNA fingerprinting  
+- Principle  
+	    - ~99.9% of base sequence in DNA is same in all humans  
+	        - Remaining 0.1% represents genetic variations between individuals  
+	        - Some occur in variable number tandem repeats (VNTRs)  
 	            - Present at many different loci on chromosomes
-	            - Repetitive base sequences
-	            - At a given locus, number of repeats varies greatly per individual between homologous chromosomes
-	            - Based on variations in length of VNTRs
-	                - DNA fingerprinting can be used to identify individuals
-	- Restriction fragment length polymorphism (RFLP) analysis [Gel electrophoresis]
-	    1. Add restriction enzymes to DNA samples and incubated
-	        - DNA fragments produced with some having VNTRs
-	    2. Place fragments (bands) on the end of gel slab connected to negative electrode
-	        - DNA fragments are negatively-charged
-	            - Travel towards positive electrodes
-	        - DNA fragments denatured into single-strands and transferred to nylon membrane
-	        - Submerge nylon membrane into radioactive DNA probe
-	            - Radioactive DNA probe
-	                - Short single-stranded DNA fragment complementary to target sequence
-                	- Binds only to DNA fragments containing specific VNTRs
-            	- Visualize DNA fingerprints using photographic film
-                	- Positions of bands determined by number of repeats in VNTRs
-		- Longer bands travel less distance compared to shorter ones
-		- To avoid identical DNA fingerprints
-		    - VNTRs at 4-5 different loci on different chromosomes are used
-        		- Unique to each individual
-	- Disadvantages of RFLP
-	    - Time-consuming
-	    - Requires a relatively large amount of good quality (intact) DNA
-	        - Led to PCR-based methods
-	- Applications
-            - Forensic science
-            	- Provide evidence on identities of individuals in court cases
-    	    - Parentage tests
-        	    - Establish family relationships
-    	    - Victim identification
-    	    - Authentication of Chinese medicine
-    	    - Conservation of endangered species
-            	- Identify origin of ivory products to help combat illegal hunting
+	            - Repetitive base sequences   
+	            - At a given locus, number of repeats varies greatly per individual between homologous chromosomes  
+	            - Based on variations in length of VNTRs  
+	                - DNA fingerprinting can be used to identify individuals  
+	- Restriction fragment length polymorphism (RFLP) analysis [Gel electrophoresis]  
+	    1. Add restriction enzymes to DNA samples and incubated  
+	        - DNA fragments produced with some having VNTRs  
+	    2. Place fragments (bands) on the end of gel slab connected to negative electrode  
+	        - DNA fragments are negatively-charged  
+	            - Travel towards positive electrodes  
+	        - DNA fragments denatured into single-strands and transferred to nylon membrane  
+	        - Submerge nylon membrane into radioactive DNA probe  
+	            - Radioactive DNA probe  
+	                - Short single-stranded DNA fragment complementary to target sequence  
+                	- Binds only to DNA fragments containing specific VNTRs  
+            	- Visualize DNA fingerprints using photographic film  
+                	- Positions of bands determined by number of repeats in VNTRs  
+		- Longer bands travel less distance compared to shorter ones  
+		- To avoid identical DNA fingerprints  
+		    - VNTRs at 4-5 different loci on different chromosomes are used  
+        		- Unique to each individual  
+	- Disadvantages of RFLP  
+	    - Time-consuming  
+	    - Requires a relatively large amount of good quality (intact) DNA  
+	        - Led to PCR-based methods  
+	- Applications  
+            - Forensic science    
+            	- Provide evidence on identities of individuals in court cases  
+    	    - Parentage tests  
+        	    - Establish family relationships  
+    	    - Victim identification  
+    	    - Authentication of Chinese medicine  
+    	    - Conservation of endangered species  
+            	- Identify origin of ivory products to help combat illegal hunting  
