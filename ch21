@@ -81,3 +81,55 @@ Ch 21 Photosynthesis
                 -> Some electrons in chlorophyll raised to higher energy level (excited) and emitted from molecule
             - Excited electrons pass through series of electron carriers of decreasing energy levels in the thylakoid membrane (Electron transport chain)
                 -> Energy released step-wise manner
+        b. ATP synthesis
+            - ADP + phosphate -> ATP (Photophosphorylation)
+            - Light energy captured -> Chemical energy stored in ATP
+            - Occurs at thylakoid membrane
+        c. Photolysis of water
+            - Split water molecules to H and O
+            - Hydrogen:
+                * Accepted by NADP (Nicotinamide adenine dinucleotide phosphate)
+                * Reduction of NADP to NADPH
+                * NADPH acts as reducing agent by donating H in carbon fixation
+            - Oxygen
+                * By-product, released as gas to atmosphere
+    ii. Carbon fixation: Calvin cycle
+        a. CO2 fixation and formation of 3-C compound
+            - CO2 combine with 5-C compound (CO2 acceptor) -> 2x 3-C compound
+        b. Reduction of 3-C compund and formation of glucose
+            - Energy from ATP and H from NADPH -> Reduce 3-C to triose phosphate (3-C)
+            - Two molecules of triose phosphate combine -> Glucose (6-C)
+            - Regeneration of CO2 acceptor
+                * Most triose phosphate molecules are used to regen. original 5-C CO2 acceptor
+                    ^ Triose phosphate -> 5-C compound (Energy from ATP needed: ATP -> ADP + P)
+5. Factors affecting rate of photosynthesis
+    i. Light intensity
+        a. Initially: Rate increases proportionately with light intensity
+            - More energy supplied to supplied to photochemical reactions
+        b. Further increase: Rate levels off
+            - Light intensity reaches a saturation point
+            - Limited by other factors
+            - Saturation point: Optimum light intensity
+    ii. CO2 concentration
+        a. Initially: Rate increases proportionately with concentration
+            - More substrates supplied to Calvin cycle
+        b. Further increase: Rate levels off
+            - Limited by other factors
+    iii. Identification of limiting factor (x-axis: Light intensity)
+        - Low conc. of CO2 level off: Limited by factor other than light intensity
+            * If at high conc. of CO2, graph does not level off: CO2 conc. is limiting factor
+        - High conc. of CO2 level off: Limited by factor other than CO2 conc.
+6. Regulation of rate of photosynthesis
+    a. Greenhouse
+        - Monitor temperature, light intensity and CO2 conc. for regulation
+            * Productivity and quality improved
+7. Fate of products
+    - Primary product: Triose phosphate
+    a. Glucose
+        ^ Triose phosphate -> glucose
+        - Used in photosynthesizing cells as energy source
+        - Most built into starch for storage
+            * Insoluble -> Does not affect water potential
+        - Broken down to form sucrose
+            * Soluble but relatively inactive
+        - Built into cellulose for cell walls
